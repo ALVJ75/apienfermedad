@@ -2,4 +2,4 @@ fastapi
 pydantic
 joblib
 pandas
-sklearn
+scikit-learn
